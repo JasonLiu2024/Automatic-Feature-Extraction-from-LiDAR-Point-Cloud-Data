@@ -1,3 +1,5 @@
 *.ply
 *.off
 .DS_Store
+*.png
+*.tiff
