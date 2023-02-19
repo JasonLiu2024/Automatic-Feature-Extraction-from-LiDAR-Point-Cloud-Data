@@ -1,2 +1,12 @@
 # GeometryProcessing_SP2023
-This documents my ongoing work in mesh analysis, starting in spring 2023
+In this project, I analyze a point cloud
+
+# Logs:
+230217
+><br>Additional analysis to areas 5~11
+
+# High Level Design
+# Files
+# Contributors
+# Setup and How to Run
+# Dependencies
