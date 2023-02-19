@@ -3,7 +3,7 @@ In this project, I analyze a point cloud
 
 # Logs:
 230217
-><br>Additional analysis to areas 5~11
+>Additional analysis to areas 5~11
 
 # High Level Design
 # Files
