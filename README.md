@@ -3,7 +3,7 @@ In this project, I analyze a mesh. This mesh is reconstructed from point cloud o
 
 # Logs:
 Weekly updates to this projectare found in: Logs.ipynb
-230217
+<br>230217
 >Additional analysis to areas 5~11
 
 230220
