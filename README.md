@@ -47,6 +47,7 @@ Problems:
 # Contributors
 Jason Liu: wrote code in Open3D_Test and carried out mesh analysis
 # Setup and How to Run
-Clone the entire directory. Follow instructions found in Instructions.ipynb
+1. Clone the entire directory. 
+2. Follow instructions found in Instructions.ipynb
 # Dependencies
 
