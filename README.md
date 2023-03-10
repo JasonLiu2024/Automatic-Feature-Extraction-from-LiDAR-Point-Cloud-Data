@@ -39,11 +39,11 @@ Problems:
 >1. Jupyter Notebook project files
 >2. Mesh analysis data
 4. ReferenceImages
-Collection of mesh analysis results (images) in the beginning of this project.
+<br>Collection of mesh analysis results (images) in the beginning of this project.
 5. libigl_Tutorials_WK2
-Jupyter Notebook project files, to test out libigl's functionalities
+<br>Jupyter Notebook project files, to test out libigl's functionalities
 6. .gitignore
-Mesh files ignored. 
+<br>Mesh files ignored. 
 # Contributors
 Jason Liu: wrote code in Open3D_Test and carried out mesh analysis
 # Setup and How to Run
