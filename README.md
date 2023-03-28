@@ -12,14 +12,6 @@ Did
 
 More Updates at: https://github.com/JasonLiu2024/GeometryProcessing_SP2023/blob/master/Open3D_Test/Log*.ipynb
 
-<br>230217
->Additional analysis to areas 5~11
-
-230220
->Analyzed Enlarged versions for Areas 6, 8, and 11.
-><br>Reconstructed mesh from point cloud, with varied 'Reconstruction Depth' values from 8 to 5
-><br>Added curvature colorization (APSS, K1)
-
 # High Level Design
 Archaeology is an inherently human problem. In the past, human ingenuity and labor dominated this field. But in recent years, new technology in hardware gives archaeologists access to previously unobtainable data with great accuracy. However, such data in its raw form can be hard to interpret. With computational methods in Computer Graphics, Image Anlysis, and Machine Learning, we can transform and break down data so that archaeology researchers can apply their expertise. 
 <br>This project to use compututational geometry methods to analyze point cloud data from an archaeological excavation site. From this analysis, we hope to gain insight on features, especially architectural structures, of archaeological insight that may not be visible to human eyes. 
