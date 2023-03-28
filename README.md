@@ -10,7 +10,8 @@ Did
 ><br>I examined the mesh more closely and drew updated feature lines!
 ><br>I found that Blender's clay_muddy.exr option for MATCAP shows a lot more details other options missed
 
-More Updates at: https://github.com/JasonLiu2024/GeometryProcessing_SP2023/blob/master/Open3D_Test/Log*.ipynb (Work-in-progress!)
+More Updates at: https://github.com/JasonLiu2024/GeometryProcessing_SP2023/blob/master/Open3D_Test/Log*.ipynb
+
 <br>230217
 >Additional analysis to areas 5~11
 
