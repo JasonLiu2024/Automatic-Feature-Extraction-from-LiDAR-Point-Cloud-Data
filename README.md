@@ -1,4 +1,4 @@
-# GeometryProcessing_SP2023 (Work-in-progress ReadME!)
+# GeometryProcessing_SP2023
 In this project, I analyze a mesh. This mesh is reconstructed from point cloud obtained by Lidar (light detection and ranging)
 
 <span style="color:#33FF9E">
