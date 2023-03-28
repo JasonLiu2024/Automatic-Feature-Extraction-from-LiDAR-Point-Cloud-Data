@@ -1,9 +1,16 @@
 # GeometryProcessing_SP2023 (Work-in-progress ReadME!)
 In this project, I analyze a mesh. This mesh is reconstructed from point cloud obtained by Lidar (light detection and ranging)
 
-## **For Latest additions, check https://github.com/JasonLiu2024/GeometryProcessing_SP2023/tree/master/Open3D_Test !**
+<span style="color:#33FF9E">
 
-# Log: https://github.com/JasonLiu2024/GeometryProcessing_SP2023/blob/master/Open3D_Test/Log*.ipynb (Work-in-progress!)
+# 🟩Latest Update on: Monday March 27, 2023
+Did
+1. GroundTruth_Blender.ipynb
+>Drew updated feature lines!
+><br>I examined the mesh more closely and drew updated feature lines!
+><br>I found that Blender's clay_muddy.exr option for MATCAP shows a lot more details other options missed
+
+More Updates at: https://github.com/JasonLiu2024/GeometryProcessing_SP2023/blob/master/Open3D_Test/Log*.ipynb (Work-in-progress!)
 <br>230217
 >Additional analysis to areas 5~11
 
