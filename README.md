@@ -3,7 +3,7 @@ In this project, I analyze a mesh. This mesh is reconstructed from point cloud o
 
 <span style="color:#33FF9E">
 
-#🟩Latest Update on: # Tuesday March 28, 2023
+# 🟩Latest Update on: # Tuesday March 28, 2023
 Did
 1. Met with Professor Frachetti and Jack to discuss the features lines I drew manually
 2. Examined ground truth data we have
@@ -18,7 +18,7 @@ Did
 5. TBK_GroundTruth_Radar.ipynb
 6. Reconstructed mesh with **Higher** definition from TBK and TGB point clouds
 
-#🟩More Details and History at: https://github.com/JasonLiu2024/GeometryProcessing_SP2023/blob/master/Open3D_Test/Log*.ipynb
+# 🟩More Details and History at: https://github.com/JasonLiu2024/GeometryProcessing_SP2023/blob/master/Open3D_Test/Log*.ipynb
 
 # High Level Design
 Archaeology is an inherently human problem. In the past, human ingenuity and labor dominated this field. But in recent years, new technology in hardware gives archaeologists access to previously unobtainable data with great accuracy. However, such data in its raw form can be hard to interpret. With computational methods in Computer Graphics, Image Anlysis, and Machine Learning, we can transform and break down data so that archaeology researchers can apply their expertise. 
