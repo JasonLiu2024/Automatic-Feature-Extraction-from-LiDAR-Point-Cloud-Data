@@ -3,20 +3,10 @@ In this project, I analyze a mesh. This mesh is reconstructed from point cloud o
 
 <span style="color:#33FF9E">
 
-# 🟩Latest Update on: # Tuesday March 28, 2023
+# 🟩Latest Update on: # Wednesday March 29, 2023
 Did
-1. Met with Professor Frachetti and Jack to discuss the features lines I drew manually
-2. Examined ground truth data we have
->There are two sites: Tashbulak (TBK) and Tugunbulak (TGB)
-3. Tasks:
->I will crop out a small chunk of TBK for which rada data is available.
->1. Reconstruct mesh at high accuracy level
->2. Colorize the mesh by curvature
->3. Generate feature lines
->4. Analyze radar data
-4. TBK_FeatureLines_230314.ipynb
-5. TBK_GroundTruth_Radar.ipynb
-6. Reconstructed mesh with **Higher** definition from TBK and TGB point clouds
+1. Met with Professor Ju to discuss next steps for mesh analysis
+2. Analyzed TBK mesh
 
 # 🟩More Details and History at: https://github.com/JasonLiu2024/GeometryProcessing_SP2023/blob/master/Open3D_Test/Log*.ipynb
 
