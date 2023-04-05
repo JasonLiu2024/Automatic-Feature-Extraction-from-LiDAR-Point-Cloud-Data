@@ -3,10 +3,14 @@ In this project, I analyze a mesh. This mesh is reconstructed from point cloud o
 
 <span style="color:#33FF9E">
 
-# 🟩Latest Update on: # Wednesday March 29, 2023
-Did
-1. Met with Professor Ju to discuss next steps for mesh analysis
-2. Analyzed TBK mesh
+# 🟩Latest Update on: # Friday March 31, 2023
+Did:
+1. developing way to export feature lines as .PLY file
+>File: AnalysisPackage_v1.ipynb
+2. Manually aligned TBK's radar image with mesh
+>File: 230331_ManualAlign
+3. Analyzed the usefulness of feature lines using radar data as ground truth
+>File: Comparison_230330*.ipynb
 
 # 🟩More Details and History at: https://github.com/JasonLiu2024/GeometryProcessing_SP2023/blob/master/Open3D_Test/Log*.ipynb
 
