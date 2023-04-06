@@ -3,14 +3,20 @@ In this project, I analyze a mesh. This mesh is reconstructed from point cloud o
 
 <span style="color:#33FF9E">
 
-# 🟩Latest Update on: # Friday March 31, 2023
+# 🟩Latest Update on:# Tuesday April 4, 2023
 Did:
-1. developing way to export feature lines as .PLY file
+1. Tested generating feature lines at k = 7, 8, 9
+>File: Comparison_230330.ipynb
+><br>k = 8 and k = 9 did not work because, I left the computer on to run for more than two hours, and the code did not finish running.
+2. Modified file naming to include all settings used for feature line generation
 >File: AnalysisPackage_v1.ipynb
-2. Manually aligned TBK's radar image with mesh
->File: 230331_ManualAlign
-3. Analyzed the usefulness of feature lines using radar data as ground truth
->File: Comparison_230330*.ipynb
+3. Analyzed k = 7 feature lines against TBK's radar image (manually aligned on Friday March 31, 2023)
+>File: Comparison_230330.ipynb
+
+Observations
+1. We need higher k values for cleaner (less noisy) feature lines. But on my laptop, doing so takes too long.
+>Right now each crop contains two to three room complexes
+><br>I can probably reduce the run time by taking even smaller crops (one room complex per crop)
 
 # 🟩More Details and History at: https://github.com/JasonLiu2024/GeometryProcessing_SP2023/blob/master/Open3D_Test/Log*.ipynb
 
