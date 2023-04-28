@@ -1,3 +1,4 @@
+*.mov
 *.ply
 *.off
 .DS_Store
@@ -5,9 +6,6 @@
 *.mlp
 *.blend
 *.blend1
-<<<<<<< HEAD
 *.txt
 *.html
-=======
 *.txt
->>>>>>> 1fc05adaf508ff130182f39d080405e27a1a29ee
